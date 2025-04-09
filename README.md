@@ -9,8 +9,5 @@ This is a Laravel 8 project for demonstrating a basic user authentication system
 - Protected dashboard view
 - Dynamic navigation based on auth state
 
-## Screenshots
-(Add your screenshots here)
-
 ## GitHub URL
 https://github.com/AngelOsuna/Activity9Web
