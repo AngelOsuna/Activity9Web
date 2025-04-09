@@ -13,4 +13,4 @@ This is a Laravel 8 project for demonstrating a basic user authentication system
 (Add your screenshots here)
 
 ## GitHub URL
-https://github.com/YOUR_USERNAME/activity-9
+https://github.com/AngelOsuna/Activity9Web
